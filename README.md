@@ -1,4 +1,4 @@
 # Audio examples from "Gli sciami di glissando in Diamorphoses"
-Repository that includes the audio examples discussed in the paper "Gli sciami di glissando in Diamorphoses. Ricostruzione mediante Digital Morphophone Environment".
+This repository includes the sound examples discussed in the paper "Gli sciami di glissando in Diamorphoses. Ricostruzione mediante Digital Morphophone Environment" ("Glissando swarms in Diamorphoses. Reconstruction via Digital Morphophone Environment"), by Daniel Scorranese and Agostino Di Scipio.
 
-## COPYRIGHT (c) 2024 Daniel Scorranese
+Presented at CIM (Colloquio di informatica musicale). Torino. 2024.
